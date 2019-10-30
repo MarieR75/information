@@ -36,7 +36,14 @@ Solid Events are run by members of the Solid community like you. Solid Event org
 
 ### Solid Implementation
 
-If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list), or there are updates to existing Solid implementations, make sure to add them to the list so they get included in next week's edition.
+* The web application [United4earth](https://agir.united4earth.org/la-carte) has migrated on the 0.9 version of the Startin’blox framework, 
+
+and is being tested by its users.
+
+* Coming soon the website of Startin’blox. The home page is expected for the beginning of November.
+
+* Startin’blox starts a communication campaign with other partners pushing for the decentralization of organizations. 
+
 
 ### Solid Development
 
