@@ -51,3 +51,15 @@ If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://
 Until next week!
 
 [Mitzi László](https://github.com/Mitzi-Laszlo)
+
+### Solid implementation
+
+##Startin'blox news##
+
+
+* The **skills directory feature**, one of the most expected, is about to be implemented in our biggest application : **freelance network**.
+
+* A dozen of potential investors are to be met in november.
+
+* We are working on improving the performances of our framework.
+
